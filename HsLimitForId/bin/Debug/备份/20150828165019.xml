@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="gb2312"?>
+<root>
+  <FundAccountList IdList="10540">
+  </FundAccountList>
+  <SerialList>
+    <element fund_account="10540" occur_date="20150828" serial="10339" />
+  </SerialList>
+</root>

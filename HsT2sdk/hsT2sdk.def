@@ -1,0 +1,33 @@
+LIBRARY   HsT2sdk
+EXPORTS
+Connect @1
+SendBiz @2
+RecvBiz @3
+ConnRelease @4
+UnPackerFree @5
+IsEOF @6
+BeginPack @7 
+Endpack @8
+PackFree @9
+AddField @10
+AddStr @11
+AddInt @12
+AddDouble @13
+AddChar @14
+GetDatasetCount @15
+SetCurrentDatasetByIndex @16
+GetColCount @17
+GetColName @18
+GetColType @19
+GetStr @20
+GetDouble @21
+GetInt @22
+GetChar @23
+Next @24
+NewDataSet @25
+GetPackBufSize @26
+GetPackLen @27
+
+
+
+
